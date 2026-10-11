@@ -1,0 +1,18 @@
+langchain
+langchain-openai
+python-dotenv
+langchain-google-genai
+langchain-anthropic
+streamlit
+# streamlit skills
+langchain-ollama
+langchain-groq
+langchain-community
+langgraph
+pypdf
+beautifulsoup4
+wikipedia
+langchain-text-splitters
+langchain-google-genai
+langchain-chroma
+pydanticpandas
